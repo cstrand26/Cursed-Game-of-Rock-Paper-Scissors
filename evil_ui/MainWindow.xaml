@@ -1,0 +1,128 @@
+﻿<Window x:Name="DaMainWindow" x:Class="evil_ui.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:evil_ui"
+        mc:Ignorable="d"
+        Title="EvilUI" Height="867" Width="651" ResizeMode="NoResize"
+        Loaded="Images">
+
+    <Grid x:Name="Master_grid">
+
+        <Grid x:Name="Start_Page" Visibility="Visible" IsEnabled="True" Cursor="No">
+            <Button x:Name="Start_Button" Content="Start" Height="50" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Click="Start_Button_Click"/>
+            <Label Content="Ultimate Rock Paper Scissors" HorizontalAlignment="Center" Margin="0,100,0,0" VerticalAlignment="Top" FontSize="36" FontFamily="Times New Roman" FontWeight="Bold"/>
+        </Grid>
+
+        <Grid x:Name="Moving_Button" Visibility="Collapsed" IsEnabled="False">
+            <Label x:Name="Choosing_instructions" Content="Make Your choice for Ultimate Rock Paper Scissors" HorizontalAlignment="Center" Margin="0,89,0,0" VerticalAlignment="Top" Height="35" Width="276"/>
+            <Button x:Name="Impossible_Button0" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="image0"/>
+            </Button>
+            <Button x:Name="Impossible_Button1" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="image1"/>
+            </Button>
+            <Button x:Name="Impossible_Button2" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="image2"/>
+            </Button>
+            <Button x:Name="Impossible_Button3" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="image3"/>
+            </Button>
+            <Button x:Name="Impossible_Button4" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="image4"/>
+            </Button>
+            <Button x:Name="Impossible_Button5" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Center" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="image5"/>
+            </Button>
+            <Button x:Name="Impossible_Button6" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="image6"/>
+            </Button>
+            <Button x:Name="Impossible_Button7" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="image7"/>
+            </Button>
+            <Button x:Name="Impossible_Button8" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="image8"/>
+            </Button>
+            <Button x:Name="Impossible_Button9" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="image9"/>
+            </Button>
+            <Button x:Name="Impossible_ButtonA" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="imageA"/>
+            </Button>
+            <Button x:Name="Impossible_ButtonB" Height="50" Width="100" VerticalAlignment="Center" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="imageB"/>
+            </Button>
+            <Button x:Name="Impossible_ButtonC" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="imageC"/>
+            </Button>
+            <Button x:Name="Impossible_ButtonD" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="imageD"/>
+            </Button>
+            <Button x:Name="Impossible_ButtonE" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" MouseEnter="Impossible_Button_MouseEnter" Click="Impossible_Button_Click">
+                <Image x:Name="imageE"/>
+            </Button>
+            <Button x:Name="Directions" Content="Directions" Height="auto" Width="auto" VerticalAlignment="Bottom" Click="Directions_Click"/>
+        </Grid>
+
+        <Grid x:Name="Counter" Visibility="Collapsed" IsEnabled="False">
+            <Button x:Name="Increment" Content="Click here" Height="50" Width="70" HorizontalAlignment="Center" VerticalAlignment="Center" Click="Increment_Click"/>
+            <Label x:Name="CountBox" Content="0" HorizontalAlignment="Center" Height="34" Margin="0,234,0,0" VerticalAlignment="Top" Width="72"/>
+            <Label x:Name="Display_Goal" VerticalAlignment="Bottom" Margin="0,0,0,50" HorizontalContentAlignment="Center" Height="110"/>
+            <Label x:Name="Count_Label1" FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,200,0,0"  HorizontalContentAlignment="Center" Visibility="Collapsed"/>
+            <Label x:Name="Count_Label2" FontSize="36" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,150,50,0" HorizontalContentAlignment="Center" Visibility="Collapsed"/>
+            <Label x:Name="Count_Label3" FontSize="42" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="50,350,0,0" HorizontalContentAlignment="Center" Visibility="Collapsed"/>
+            <Label x:Name="Count_Label4" FontSize="72" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Visibility="Collapsed"/>
+        </Grid>
+        
+        <Grid x:Name="Button_Maze" Visibility="Collapsed" IsEnabled="False">
+            <Button x:Name="MazeStart" Content="Start Maze!" HorizontalAlignment="Center" Height="50" VerticalAlignment="Center" Width="100" Cursor="Wait" Click="MazeStart_Click"/>
+        </Grid>
+
+        <Grid x:Name="AirPump" Visibility="Collapsed" IsEnabled="False">
+            <Slider x:Name="Pump" HorizontalAlignment="Left" Height="60" Margin="106,423,0,0" VerticalAlignment="Top" Width="152" RenderTransformOrigin="0.5,0.5" ValueChanged="Pump_ValueChanged" >
+                <Slider.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-90"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Slider.RenderTransform>
+            </Slider>
+            <ProgressBar x:Name="AirContainer" HorizontalAlignment="Left"  Height="123" Margin="63,185,0,0" VerticalAlignment="Top" Width="569" RenderTransformOrigin="0.5,0.5" Cursor="UpArrow">
+                <ProgressBar.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform />
+                        <RotateTransform Angle="-90"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ProgressBar.RenderTransform>
+            </ProgressBar>
+        </Grid>
+
+        <Grid x:Name="PleaseWait" Visibility="Collapsed" IsEnabled="False">
+            <Button HorizontalAlignment="Center" Height="851" VerticalAlignment="Center" Width="651" Opacity="0" Cursor="Wait"/>
+            <Label x:Name="WaitLabel" Content="Please Wait" Height="84" Margin="0,426,0,0" VerticalAlignment="Top" Width="530" FontSize="48" FontFamily="Old English Text MT" MouseLeftButtonDown="Label_MouseLeftButtonDown" Cursor="Wait" HorizontalAlignment="Center"/>
+            <Button x:Name="ProceedButton" Content="Proceed" Height="66" Width="177" Margin="351,690,0,0" Visibility="Collapsed" Click="ProceedButton_Click" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        </Grid>
+
+        <Grid x:Name="AgeChecker" Visibility="Collapsed" IsEnabled="False">
+            <Button x:Name="GetAge" Content="Confirm" Width="100" Height="50" VerticalAlignment="Bottom" Margin="0,0,0,50" Click="GetAge_Click"/>
+            <TextBox x:Name="TheAge" TextWrapping="Wrap" Text="Enter Your Age" VerticalAlignment="Bottom" Width="150" Height="20" Margin="0,0,0,120"/>
+            <RadioButton x:Name="EventBefore" Content="I was born before this event" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,300,0,0" Width="200" Height="50" IsEnabled="False" Visibility="Collapsed"/>
+            <RadioButton x:Name="EventAfter" Content="I was born after this event" HorizontalAlignment="Right" Margin="0,300,100,0" VerticalAlignment="Top" Width="200" Height="50" IsEnabled="False" Visibility="Collapsed"/>
+            <TextBlock x:Name="EventDetails" VerticalAlignment="Top" Margin="0,100,0,100" Height="200" Width="551" FontSize="20" TextWrapping="Wrap" IsEnabled="False" Visibility="Collapsed"/>
+            <Button x:Name="EventConfirm" Content="Confirm" VerticalAlignment="Top" HorizontalAlignment="Center" Width="100" Height="50" Margin="0,350,0,0" Click="EventConfirm_Click" IsEnabled="False" Visibility="Collapsed"/>
+        </Grid>
+
+        <Grid x:Name="End_Page" Visibility="Collapsed" IsEnabled="False">
+            <Label x:Name="End_Lable" Content=" " Margin="0,100,0,0" VerticalAlignment="Top" FontSize="20" HorizontalContentAlignment="Center"/>
+            <Button x:Name="End_Normal" Content="See Result" HorizontalAlignment="Center" VerticalAlignment="Top" Width="100" Height="50" Margin="0,300,0,0" Click="End_Normal_Click"/>
+            <Button x:Name="End_Win" Content="Win the Game" HorizontalAlignment="Center" VerticalAlignment="Top" Width="100" Height="50" Margin="0,400,300,0" Click="End_Win_Click"/>
+            <Button x:Name="End_Lose" Content="Lose the Game" HorizontalAlignment="Center" VerticalAlignment="Top" Width="100" Height="50" Margin="300,400,0,0" Click="End_Lose_Click"/>
+        </Grid>
+    </Grid>
+</Window>
+

@@ -1,0 +1,5 @@
+﻿Ideas for annoying this:
+
+Hold button and watch number go up, have to stop on particular number (incosistent speed, loops back to 0 after large number)
+Age picker that uses historical events to age you
+doom phone number picker

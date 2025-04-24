@@ -1,0 +1,72 @@
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\bin\Debug\net8.0-windows\evil_ui.exe
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\bin\Debug\net8.0-windows\evil_ui.deps.json
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\bin\Debug\net8.0-windows\evil_ui.runtimeconfig.json
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\bin\Debug\net8.0-windows\evil_ui.dll
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\bin\Debug\net8.0-windows\evil_ui.pdb
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\evil_ui_MarkupCompile.cache
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\evil_ui_MarkupCompile.lref
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\evil_ui.g.resources
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\evil_ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\evil_ui.AssemblyInfoInputs.cache
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\evil_ui.AssemblyInfo.cs
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\evil_ui.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\evil_ui.dll
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\refint\evil_ui.dll
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\evil_ui.pdb
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\evil_ui.genruntimeconfig.cache
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\ref\evil_ui.dll
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\bin\Debug\net8.0-windows\evil_ui.exe
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\bin\Debug\net8.0-windows\evil_ui.deps.json
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\bin\Debug\net8.0-windows\evil_ui.runtimeconfig.json
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\bin\Debug\net8.0-windows\evil_ui.dll
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\bin\Debug\net8.0-windows\evil_ui.pdb
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui_MarkupCompile.cache
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui_MarkupCompile.lref
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.g.resources
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.AssemblyInfoInputs.cache
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.AssemblyInfo.cs
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.csproj.CoreCompileInputs.cache
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.dll
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\refint\evil_ui.dll
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.pdb
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.genruntimeconfig.cache
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\ref\evil_ui.dll
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\DirectionWindow.g.cs
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\DirectionWindow.baml
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\DirectionWindow.g.cs
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\DirectionWindow.baml
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\Maze.g.cs
+C:\Users\Caleb\Documents\Whitworth 2022-2023\Jan Term\chris_and_calab_evil_ui\evil_ui\obj\Debug\net8.0-windows\Maze.baml
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\Maze.g.cs
+C:\Users\gondo\OneDrive\Desktop\CS\CS-371\Final_Project\evil_ui\obj\Debug\net8.0-windows\Maze.baml
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\bin\Debug\net8.0-windows\evil_ui.exe
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\bin\Debug\net8.0-windows\evil_ui.deps.json
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\bin\Debug\net8.0-windows\evil_ui.runtimeconfig.json
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\bin\Debug\net8.0-windows\evil_ui.dll
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\bin\Debug\net8.0-windows\evil_ui.pdb
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\DirectionWindow.g.cs
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\Maze.g.cs
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui_MarkupCompile.cache
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui_MarkupCompile.lref
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\DirectionWindow.baml
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\Maze.baml
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.g.resources
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.AssemblyInfoInputs.cache
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.AssemblyInfo.cs
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.csproj.CoreCompileInputs.cache
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.dll
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\refint\evil_ui.dll
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.pdb
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\evil_ui.genruntimeconfig.cache
+C:\Users\gondo\OneDrive\Desktop\CS\0ld\CS-371 Windows App Dev\Final_Project\evil_ui\obj\Debug\net8.0-windows\ref\evil_ui.dll
